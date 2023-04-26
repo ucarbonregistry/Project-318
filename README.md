@@ -5,7 +5,6 @@ Project Name : Contaminated River Treatment Project by SIIPL, Pune, India
 _____
 the project activity is pre-approved under the UCR RoU program for the following scope:
 ### Scope 4: Measures that remove bacteriological and other impurities from contaminated water bodies or unutilized water, so that water is made suitable for re-use and/or recycling purposes.
-
 ____________________
 Between 2016 and 2022, the project activity has treated 3411 million litres of contaminated
 river water successfully with gainful end use of the same. This contaminated river (MulaMutha) is outside the project activity boundary and showcases the PP's commitment towards
