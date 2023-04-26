@@ -36,8 +36,8 @@ National Water Security Index: 2 (India)
 
 RoUs Generated During 1st Monitored Period: 3,386,129 RoUs
 _________________
-Total RoUs issued: 3386129 (Period 16/12/2016-31/12/2022)
-
+### Total RoUs issued: 3386129 (Period 16/12/2016-31/12/2022)
+____________________________
 Serial Number: 0001-000001-009913-UCR-RoU-IN-318-16122016-31122016
 
 Vintage Year: 2016
